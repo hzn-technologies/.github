@@ -1,6 +1,6 @@
 # Horizon Labs - Redefining Decentralized AI & Blockchain Security
 
-![Horizon Labs Logo](https://raw.githubusercontent.com/Horizon-Labs/.github/refs/heads/main/profile/Banner.png)
+![Horizon Labs Logo](https://raw.githubusercontent.com/Horizon-Labs1/.github/refs/heads/main/profile/Banner.png)
 
 At Horizon Labs, we are pioneering the convergence of AI and blockchain technology, developing decentralized solutions that enhance security, efficiency, and accessibility. Through open-source innovation, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.
 
