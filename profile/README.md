@@ -2,8 +2,9 @@
 
 <h1 align="center" style="background-color:#f4f4f4; padding:10px; border-radius:10px;">Horizon Technologies - Redefining Decentralized AI & Blockchain Security </h1>
 
-<p align="center">At **Horizon Technologies**, we are pioneering the convergence of **AI and blockchain technology**, developing decentralized solutions that enhance **security, efficiency, and accessibility**. Through **open-source innovation**, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.</p>
----
+<p align="center">At <b>Horizon Technologies</b>, we are pioneering the convergence of <b>AI and blockchain technology</b>, developing decentralized solutions that enhance <b>security, efficiency, and accessibility</b>. Through <b>open-source innovation</b>, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.</p>
+
+--- 
 
 ## 🌍 Our Vision
 
