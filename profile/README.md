@@ -1,10 +1,9 @@
-<h1 align="center" style="background-color:#f4f4f4; padding:10px; border-radius:10px;"> 🚀 Horizon Technologies - Redefining Decentralized AI & Blockchain Security 🚀 </h1>
-
 ![Horizon Technologies Logo](https://raw.githubusercontent.com/Horizon-Labs1/.github/refs/heads/main/profile/Banner.png)
+
+<h1 align="center" style="background-color:#f4f4f4; padding:10px; border-radius:10px;">Horizon Technologies - Redefining Decentralized AI & Blockchain Security </h1>
 
 At **Horizon Technologies**, we are pioneering the convergence of **AI and blockchain technology**, developing decentralized solutions that enhance **security, efficiency, and accessibility**. Through **open-source innovation**, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.
 
----
 ---
 
 ## 🌍 Our Vision
