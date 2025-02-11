@@ -34,6 +34,24 @@ VIGLO represents the next evolution in **AI-powered blockchain security**, offer
 
 ---
 
+## 🔥 Introducing SentinelX - AI-Powered Smart Contract Auditor
+
+### [SentinelX - Automated Smart Contract Auditing](https://github.com/Horizon-Labs1/SentinelX)
+
+SentinelX is an advanced **AI-driven smart contract auditing tool** that helps developers and organizations identify vulnerabilities before deployment. Designed to **enhance security in blockchain networks**, SentinelX performs deep analysis to **detect potential exploits, code inefficiencies, and compliance risks**.
+
+### 🛡️ **Key Features of SentinelX**
+
+- **⚡ AI-Powered Code Analysis** – Uses machine learning models to detect vulnerabilities in smart contracts.
+- **🔍 Automated Security Audits** – Runs real-time security scans and risk assessments.
+- **📜 Compliance Checker** – Ensures adherence to blockchain security standards and best practices.
+- **🚀 Multi-Chain Support** – Compatible with **Ethereum, Solana, and other EVM-based blockchains**.
+- **🔐 Developer-Focused** – Provides actionable recommendations for improving contract security.
+
+🔗 Explore SentinelX in its [repository](https://github.com/Horizon-Labs1/SentinelX).
+
+---
+
 ## 🤖 The Role of AI in Blockchain & DeFi
 
 The fusion of **AI and blockchain** is revolutionizing digital security and financial infrastructures. Horizon Technologies is at the forefront of this transformation, offering:
