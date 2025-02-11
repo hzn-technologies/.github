@@ -16,7 +16,7 @@ We envision a future where AI-driven blockchain solutions provide next-level sec
 
 ## Our Flagship Project: VIGLO
 
-### [VIGLO - AI-Powered Blockchain Security & Analytics](https://github.com/Horizon-Labs/VIGLO)
+### [VIGLO - AI-Powered Blockchain Security & Analytics](https://github.com/Horizon-Labs1/VIGLO)
 VIGLO is a next-generation AI-driven blockchain security platform that continuously monitors, detects, and mitigates fraudulent activities and vulnerabilities within blockchain ecosystems, ensuring a safer and more transparent decentralized finance (DeFi) landscape.
 
 ### Key Features:
@@ -26,7 +26,7 @@ VIGLO is a next-generation AI-driven blockchain security platform that continuou
 - Multi-Chain Compatibility – Supports Solana, Ethereum, and other major blockchain networks.
 - Decentralized & Permissionless – Ensures complete user control while leveraging automated security enhancements.
 
-Explore VIGLO in its [repository](https://github.com/Horizon-Labs/VIGLO).
+Explore VIGLO in its [repository](https://github.com/Horizon-Labs1/VIGLO).
 
 ---
 
