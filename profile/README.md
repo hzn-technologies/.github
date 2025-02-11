@@ -1,8 +1,8 @@
-# Horizon Labs - Redefining Decentralized AI & Blockchain Security
+# Horizon Technologies - Redefining Decentralized AI & Blockchain Security
 
-![Horizon Labs Logo](https://raw.githubusercontent.com/Horizon-Labs1/.github/refs/heads/main/profile/Banner.png)
+![Horizon Technologies Logo](https://raw.githubusercontent.com/Horizon-Labs/.github/refs/heads/main/Banner.png)
 
-At Horizon Labs, we are pioneering the convergence of AI and blockchain technology, developing decentralized solutions that enhance security, efficiency, and accessibility. Through open-source innovation, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.
+At Horizon Technologies, we are pioneering the convergence of AI and blockchain technology, developing decentralized solutions that enhance security, efficiency, and accessibility. Through open-source innovation, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.
 
 ---
 
@@ -16,7 +16,7 @@ We envision a future where AI-driven blockchain solutions provide next-level sec
 
 ## Our Flagship Project: VIGLO
 
-### [VIGLO - AI-Powered Blockchain Security & Analytics](https://github.com/Horizon-Labs1/viglo)
+### [VIGLO - AI-Powered Blockchain Security & Analytics](https://github.com/Horizon-Labs/VIGLO)
 VIGLO is a next-generation AI-driven blockchain security platform that continuously monitors, detects, and mitigates fraudulent activities and vulnerabilities within blockchain ecosystems, ensuring a safer and more transparent decentralized finance (DeFi) landscape.
 
 ### Key Features:
@@ -26,13 +26,13 @@ VIGLO is a next-generation AI-driven blockchain security platform that continuou
 - Multi-Chain Compatibility – Supports Solana, Ethereum, and other major blockchain networks.
 - Decentralized & Permissionless – Ensures complete user control while leveraging automated security enhancements.
 
-Explore VIGLO in its [repository](https://github.com/Horizon-Labs1/viglo).
+Explore VIGLO in its [repository](https://github.com/Horizon-Labs/VIGLO).
 
 ---
 
 ## Why AI in Blockchain & DeFi?
 
-The fusion of AI and blockchain is revolutionizing digital security and financial infrastructures. Horizon Labs is at the forefront of this transformation, offering:
+The fusion of AI and blockchain is revolutionizing digital security and financial infrastructures. Horizon Technologies is at the forefront of this transformation, offering:
 - Trustless Automation – AI-driven security mechanisms that autonomously safeguard DeFi ecosystems.
 - Enhanced Protection – AI-powered fraud detection, exploit prevention, and smart contract risk mitigation.
 - Scalable & Adaptive Solutions – AI models that continuously evolve to counter emerging security threats.
@@ -49,12 +49,11 @@ Check out our contribution guidelines to get started.
 
 ---
 
-## Join the Horizon Labs Ecosystem
+## Join the Horizon Technologies Ecosystem
 Be part of the future of decentralized AI security and stay engaged with our growing community:
 
-- Website: [HorizonLabs.io](#)
-- Twitter: [@HorizonLabs](#)
+- Website: [HorizonTechnologies.io](#)
+- Twitter: [@HorizonTechnologies](#)
 - Join the Discussion: [Discord](#) | [Telegram](#)
 
 Together, we are building the most advanced AI-powered blockchain security solutions. Let's secure Web3—one transaction at a time.
-
